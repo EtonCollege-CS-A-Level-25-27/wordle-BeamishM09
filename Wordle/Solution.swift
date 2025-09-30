@@ -98,6 +98,5 @@ struct Solution {
             print("CORRECT")
             
         }
-        return true
     }
 }
